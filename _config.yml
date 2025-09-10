@@ -22,8 +22,8 @@ title: Technical Writing Portfolio
 email: austin.j.morris5@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Examples of technical writing, written by Austin Morris.
-baseurl: "/aj1323.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/_site" # the subpath of your site, e.g. /blog
+url: "https://aj1323.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AJ1323
 
 # Build settings
