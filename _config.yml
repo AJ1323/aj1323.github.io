@@ -27,7 +27,7 @@ url: "https://aj1323.github.io" # the base hostname & protocol for your site, e.
 github_username:  AJ1323
 
 # Build settings
-remote_theme: My-Alternate-Portfolio-Website
+remote_theme: WhatATheme
 plugins:
   - jekyll-feed
 
